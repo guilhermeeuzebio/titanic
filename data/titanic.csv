@@ -1,0 +1,1310 @@
+,Idade,Classe,Sexo,Sobreviveu,Família,Prioritário
+0,22.0,3,masculino,morto,1,Não Prioritário
+1,38.0,1,feminino,sobrevivente,1,Prioritário
+2,26.0,3,feminino,sobrevivente,0,Prioritário
+3,35.0,1,feminino,sobrevivente,1,Prioritário
+4,35.0,3,masculino,morto,0,Não Prioritário
+5,0.0,3,masculino,morto,0,Não Prioritário
+6,54.0,1,masculino,morto,0,Não Prioritário
+7,2.0,3,masculino,morto,4,Prioritário
+8,27.0,3,feminino,sobrevivente,2,Prioritário
+9,14.0,2,feminino,sobrevivente,1,Prioritário
+10,4.0,3,feminino,sobrevivente,2,Prioritário
+11,58.0,1,feminino,sobrevivente,0,Prioritário
+12,20.0,3,masculino,morto,0,Não Prioritário
+13,39.0,3,masculino,morto,6,Não Prioritário
+14,14.0,3,feminino,morto,0,Prioritário
+15,55.0,2,feminino,sobrevivente,0,Prioritário
+16,2.0,3,masculino,morto,5,Prioritário
+17,0.0,2,masculino,sobrevivente,0,Não Prioritário
+18,31.0,3,feminino,morto,1,Prioritário
+19,0.0,3,feminino,sobrevivente,0,Prioritário
+20,35.0,2,masculino,morto,0,Não Prioritário
+21,34.0,2,masculino,sobrevivente,0,Não Prioritário
+22,15.0,3,feminino,sobrevivente,0,Prioritário
+23,28.0,1,masculino,sobrevivente,0,Não Prioritário
+24,8.0,3,feminino,morto,4,Prioritário
+25,38.0,3,feminino,sobrevivente,6,Prioritário
+26,0.0,3,masculino,morto,0,Não Prioritário
+27,19.0,1,masculino,morto,5,Não Prioritário
+28,0.0,3,feminino,sobrevivente,0,Prioritário
+29,0.0,3,masculino,morto,0,Não Prioritário
+30,40.0,1,masculino,morto,0,Não Prioritário
+31,0.0,1,feminino,sobrevivente,1,Prioritário
+32,0.0,3,feminino,sobrevivente,0,Prioritário
+33,66.0,2,masculino,morto,0,Não Prioritário
+34,28.0,1,masculino,morto,1,Não Prioritário
+35,42.0,1,masculino,morto,1,Não Prioritário
+36,0.0,3,masculino,sobrevivente,0,Não Prioritário
+37,21.0,3,masculino,morto,0,Não Prioritário
+38,18.0,3,feminino,morto,2,Prioritário
+39,14.0,3,feminino,sobrevivente,1,Prioritário
+40,40.0,3,feminino,morto,1,Prioritário
+41,27.0,2,feminino,morto,1,Prioritário
+42,0.0,3,masculino,morto,0,Não Prioritário
+43,3.0,2,feminino,sobrevivente,3,Prioritário
+44,19.0,3,feminino,sobrevivente,0,Prioritário
+45,0.0,3,masculino,morto,0,Não Prioritário
+46,0.0,3,masculino,morto,1,Não Prioritário
+47,0.0,3,feminino,sobrevivente,0,Prioritário
+48,0.0,3,masculino,morto,2,Não Prioritário
+49,18.0,3,feminino,morto,1,Prioritário
+50,7.0,3,masculino,morto,5,Prioritário
+51,21.0,3,masculino,morto,0,Não Prioritário
+52,49.0,1,feminino,sobrevivente,1,Prioritário
+53,29.0,2,feminino,sobrevivente,1,Prioritário
+54,65.0,1,masculino,morto,1,Não Prioritário
+55,0.0,1,masculino,sobrevivente,0,Não Prioritário
+56,21.0,2,feminino,sobrevivente,0,Prioritário
+57,28.5,3,masculino,morto,0,Não Prioritário
+58,5.0,2,feminino,sobrevivente,3,Prioritário
+59,11.0,3,masculino,morto,7,Prioritário
+60,22.0,3,masculino,morto,0,Não Prioritário
+61,38.0,1,feminino,sobrevivente,0,Prioritário
+62,45.0,1,masculino,morto,1,Não Prioritário
+63,4.0,3,masculino,morto,5,Prioritário
+64,0.0,1,masculino,morto,0,Não Prioritário
+65,0.0,3,masculino,sobrevivente,2,Não Prioritário
+66,29.0,2,feminino,sobrevivente,0,Prioritário
+67,19.0,3,masculino,morto,0,Não Prioritário
+68,17.0,3,feminino,sobrevivente,6,Prioritário
+69,26.0,3,masculino,morto,2,Não Prioritário
+70,32.0,2,masculino,morto,0,Não Prioritário
+71,16.0,3,feminino,morto,7,Prioritário
+72,21.0,2,masculino,morto,0,Não Prioritário
+73,26.0,3,masculino,morto,1,Não Prioritário
+74,32.0,3,masculino,sobrevivente,0,Não Prioritário
+75,25.0,3,masculino,morto,0,Não Prioritário
+76,0.0,3,masculino,morto,0,Não Prioritário
+77,0.0,3,masculino,morto,0,Não Prioritário
+78,0.83,2,masculino,sobrevivente,2,Prioritário
+79,30.0,3,feminino,sobrevivente,0,Prioritário
+80,22.0,3,masculino,morto,0,Não Prioritário
+81,29.0,3,masculino,sobrevivente,0,Não Prioritário
+82,0.0,3,feminino,sobrevivente,0,Prioritário
+83,28.0,1,masculino,morto,0,Não Prioritário
+84,17.0,2,feminino,sobrevivente,0,Prioritário
+85,33.0,3,feminino,sobrevivente,3,Prioritário
+86,16.0,3,masculino,morto,4,Não Prioritário
+87,0.0,3,masculino,morto,0,Não Prioritário
+88,23.0,1,feminino,sobrevivente,5,Prioritário
+89,24.0,3,masculino,morto,0,Não Prioritário
+90,29.0,3,masculino,morto,0,Não Prioritário
+91,20.0,3,masculino,morto,0,Não Prioritário
+92,46.0,1,masculino,morto,1,Não Prioritário
+93,26.0,3,masculino,morto,3,Não Prioritário
+94,59.0,3,masculino,morto,0,Não Prioritário
+95,0.0,3,masculino,morto,0,Não Prioritário
+96,71.0,1,masculino,morto,0,Não Prioritário
+97,23.0,1,masculino,sobrevivente,1,Não Prioritário
+98,34.0,2,feminino,sobrevivente,1,Prioritário
+99,34.0,2,masculino,morto,1,Não Prioritário
+100,28.0,3,feminino,morto,0,Prioritário
+101,0.0,3,masculino,morto,0,Não Prioritário
+102,21.0,1,masculino,morto,1,Não Prioritário
+103,33.0,3,masculino,morto,0,Não Prioritário
+104,37.0,3,masculino,morto,2,Não Prioritário
+105,28.0,3,masculino,morto,0,Não Prioritário
+106,21.0,3,feminino,sobrevivente,0,Prioritário
+107,0.0,3,masculino,sobrevivente,0,Não Prioritário
+108,38.0,3,masculino,morto,0,Não Prioritário
+109,0.0,3,feminino,sobrevivente,1,Prioritário
+110,47.0,1,masculino,morto,0,Não Prioritário
+111,14.5,3,feminino,morto,1,Prioritário
+112,22.0,3,masculino,morto,0,Não Prioritário
+113,20.0,3,feminino,morto,1,Prioritário
+114,17.0,3,feminino,morto,0,Prioritário
+115,21.0,3,masculino,morto,0,Não Prioritário
+116,70.5,3,masculino,morto,0,Não Prioritário
+117,29.0,2,masculino,morto,1,Não Prioritário
+118,24.0,1,masculino,morto,1,Não Prioritário
+119,2.0,3,feminino,morto,6,Prioritário
+120,21.0,2,masculino,morto,2,Não Prioritário
+121,0.0,3,masculino,morto,0,Não Prioritário
+122,32.5,2,masculino,morto,1,Não Prioritário
+123,32.5,2,feminino,sobrevivente,0,Prioritário
+124,54.0,1,masculino,morto,1,Não Prioritário
+125,12.0,3,masculino,sobrevivente,1,Prioritário
+126,0.0,3,masculino,morto,0,Não Prioritário
+127,24.0,3,masculino,sobrevivente,0,Não Prioritário
+128,0.0,3,feminino,sobrevivente,2,Prioritário
+129,45.0,3,masculino,morto,0,Não Prioritário
+130,33.0,3,masculino,morto,0,Não Prioritário
+131,20.0,3,masculino,morto,0,Não Prioritário
+132,47.0,3,feminino,morto,1,Prioritário
+133,29.0,2,feminino,sobrevivente,1,Prioritário
+134,25.0,2,masculino,morto,0,Não Prioritário
+135,23.0,2,masculino,morto,0,Não Prioritário
+136,19.0,1,feminino,sobrevivente,2,Prioritário
+137,37.0,1,masculino,morto,1,Não Prioritário
+138,16.0,3,masculino,morto,0,Não Prioritário
+139,24.0,1,masculino,morto,0,Não Prioritário
+140,0.0,3,feminino,morto,2,Prioritário
+141,22.0,3,feminino,sobrevivente,0,Prioritário
+142,24.0,3,feminino,sobrevivente,1,Prioritário
+143,19.0,3,masculino,morto,0,Não Prioritário
+144,18.0,2,masculino,morto,0,Não Prioritário
+145,19.0,2,masculino,morto,2,Não Prioritário
+146,27.0,3,masculino,sobrevivente,0,Não Prioritário
+147,9.0,3,feminino,morto,4,Prioritário
+148,36.5,2,masculino,morto,2,Não Prioritário
+149,42.0,2,masculino,morto,0,Não Prioritário
+150,51.0,2,masculino,morto,0,Não Prioritário
+151,22.0,1,feminino,sobrevivente,1,Prioritário
+152,55.5,3,masculino,morto,0,Não Prioritário
+153,40.5,3,masculino,morto,2,Não Prioritário
+154,0.0,3,masculino,morto,0,Não Prioritário
+155,51.0,1,masculino,morto,1,Não Prioritário
+156,16.0,3,feminino,sobrevivente,0,Prioritário
+157,30.0,3,masculino,morto,0,Não Prioritário
+158,0.0,3,masculino,morto,0,Não Prioritário
+159,0.0,3,masculino,morto,10,Não Prioritário
+160,44.0,3,masculino,morto,1,Não Prioritário
+161,40.0,2,feminino,sobrevivente,0,Prioritário
+162,26.0,3,masculino,morto,0,Não Prioritário
+163,17.0,3,masculino,morto,0,Não Prioritário
+164,1.0,3,masculino,morto,5,Prioritário
+165,9.0,3,masculino,sobrevivente,2,Prioritário
+166,0.0,1,feminino,sobrevivente,1,Prioritário
+167,45.0,3,feminino,morto,5,Prioritário
+168,0.0,1,masculino,morto,0,Não Prioritário
+169,28.0,3,masculino,morto,0,Não Prioritário
+170,61.0,1,masculino,morto,0,Não Prioritário
+171,4.0,3,masculino,morto,5,Prioritário
+172,1.0,3,feminino,sobrevivente,2,Prioritário
+173,21.0,3,masculino,morto,0,Não Prioritário
+174,56.0,1,masculino,morto,0,Não Prioritário
+175,18.0,3,masculino,morto,2,Não Prioritário
+176,0.0,3,masculino,morto,4,Não Prioritário
+177,50.0,1,feminino,morto,0,Prioritário
+178,30.0,2,masculino,morto,0,Não Prioritário
+179,36.0,3,masculino,morto,0,Não Prioritário
+180,0.0,3,feminino,morto,10,Prioritário
+181,0.0,2,masculino,morto,0,Não Prioritário
+182,9.0,3,masculino,morto,6,Prioritário
+183,1.0,2,masculino,sobrevivente,3,Prioritário
+184,4.0,3,feminino,sobrevivente,2,Prioritário
+185,0.0,1,masculino,morto,0,Não Prioritário
+186,0.0,3,feminino,sobrevivente,1,Prioritário
+187,45.0,1,masculino,sobrevivente,0,Não Prioritário
+188,40.0,3,masculino,morto,2,Não Prioritário
+189,36.0,3,masculino,morto,0,Não Prioritário
+190,32.0,2,feminino,sobrevivente,0,Prioritário
+191,19.0,2,masculino,morto,0,Não Prioritário
+192,19.0,3,feminino,sobrevivente,1,Prioritário
+193,3.0,2,masculino,sobrevivente,2,Prioritário
+194,44.0,1,feminino,sobrevivente,0,Prioritário
+195,58.0,1,feminino,sobrevivente,0,Prioritário
+196,0.0,3,masculino,morto,0,Não Prioritário
+197,42.0,3,masculino,morto,1,Não Prioritário
+198,0.0,3,feminino,sobrevivente,0,Prioritário
+199,24.0,2,feminino,morto,0,Prioritário
+200,28.0,3,masculino,morto,0,Não Prioritário
+201,0.0,3,masculino,morto,10,Não Prioritário
+202,34.0,3,masculino,morto,0,Não Prioritário
+203,45.5,3,masculino,morto,0,Não Prioritário
+204,18.0,3,masculino,sobrevivente,0,Não Prioritário
+205,2.0,3,feminino,morto,1,Prioritário
+206,32.0,3,masculino,morto,1,Não Prioritário
+207,26.0,3,masculino,sobrevivente,0,Não Prioritário
+208,16.0,3,feminino,sobrevivente,0,Prioritário
+209,40.0,1,masculino,sobrevivente,0,Não Prioritário
+210,24.0,3,masculino,morto,0,Não Prioritário
+211,35.0,2,feminino,sobrevivente,0,Prioritário
+212,22.0,3,masculino,morto,0,Não Prioritário
+213,30.0,2,masculino,morto,0,Não Prioritário
+214,0.0,3,masculino,morto,1,Não Prioritário
+215,31.0,1,feminino,sobrevivente,1,Prioritário
+216,27.0,3,feminino,sobrevivente,0,Prioritário
+217,42.0,2,masculino,morto,1,Não Prioritário
+218,32.0,1,feminino,sobrevivente,0,Prioritário
+219,30.0,2,masculino,morto,0,Não Prioritário
+220,16.0,3,masculino,sobrevivente,0,Não Prioritário
+221,27.0,2,masculino,morto,0,Não Prioritário
+222,51.0,3,masculino,morto,0,Não Prioritário
+223,0.0,3,masculino,morto,0,Não Prioritário
+224,38.0,1,masculino,sobrevivente,1,Não Prioritário
+225,22.0,3,masculino,morto,0,Não Prioritário
+226,19.0,2,masculino,sobrevivente,0,Não Prioritário
+227,20.5,3,masculino,morto,0,Não Prioritário
+228,18.0,2,masculino,morto,0,Não Prioritário
+229,0.0,3,feminino,morto,4,Prioritário
+230,35.0,1,feminino,sobrevivente,1,Prioritário
+231,29.0,3,masculino,morto,0,Não Prioritário
+232,59.0,2,masculino,morto,0,Não Prioritário
+233,5.0,3,feminino,sobrevivente,6,Prioritário
+234,24.0,2,masculino,morto,0,Não Prioritário
+235,0.0,3,feminino,morto,0,Prioritário
+236,44.0,2,masculino,morto,1,Não Prioritário
+237,8.0,2,feminino,sobrevivente,2,Prioritário
+238,19.0,2,masculino,morto,0,Não Prioritário
+239,33.0,2,masculino,morto,0,Não Prioritário
+240,0.0,3,feminino,morto,1,Prioritário
+241,0.0,3,feminino,sobrevivente,1,Prioritário
+242,29.0,2,masculino,morto,0,Não Prioritário
+243,22.0,3,masculino,morto,0,Não Prioritário
+244,30.0,3,masculino,morto,0,Não Prioritário
+245,44.0,1,masculino,morto,2,Não Prioritário
+246,25.0,3,feminino,morto,0,Prioritário
+247,24.0,2,feminino,sobrevivente,2,Prioritário
+248,37.0,1,masculino,sobrevivente,2,Não Prioritário
+249,54.0,2,masculino,morto,1,Não Prioritário
+250,0.0,3,masculino,morto,0,Não Prioritário
+251,29.0,3,feminino,morto,2,Prioritário
+252,62.0,1,masculino,morto,0,Não Prioritário
+253,30.0,3,masculino,morto,1,Não Prioritário
+254,41.0,3,feminino,morto,2,Prioritário
+255,29.0,3,feminino,sobrevivente,2,Prioritário
+256,0.0,1,feminino,sobrevivente,0,Prioritário
+257,30.0,1,feminino,sobrevivente,0,Prioritário
+258,35.0,1,feminino,sobrevivente,0,Prioritário
+259,50.0,2,feminino,sobrevivente,1,Prioritário
+260,0.0,3,masculino,morto,0,Não Prioritário
+261,3.0,3,masculino,sobrevivente,6,Prioritário
+262,52.0,1,masculino,morto,2,Não Prioritário
+263,40.0,1,masculino,morto,0,Não Prioritário
+264,0.0,3,feminino,morto,0,Prioritário
+265,36.0,2,masculino,morto,0,Não Prioritário
+266,16.0,3,masculino,morto,5,Não Prioritário
+267,25.0,3,masculino,sobrevivente,1,Não Prioritário
+268,58.0,1,feminino,sobrevivente,1,Prioritário
+269,35.0,1,feminino,sobrevivente,0,Prioritário
+270,0.0,1,masculino,morto,0,Não Prioritário
+271,25.0,3,masculino,sobrevivente,0,Não Prioritário
+272,41.0,2,feminino,sobrevivente,1,Prioritário
+273,37.0,1,masculino,morto,1,Não Prioritário
+274,0.0,3,feminino,sobrevivente,0,Prioritário
+275,63.0,1,feminino,sobrevivente,1,Prioritário
+276,45.0,3,feminino,morto,0,Prioritário
+277,0.0,2,masculino,morto,0,Não Prioritário
+278,7.0,3,masculino,morto,5,Prioritário
+279,35.0,3,feminino,sobrevivente,2,Prioritário
+280,65.0,3,masculino,morto,0,Não Prioritário
+281,28.0,3,masculino,morto,0,Não Prioritário
+282,16.0,3,masculino,morto,0,Não Prioritário
+283,19.0,3,masculino,sobrevivente,0,Não Prioritário
+284,0.0,1,masculino,morto,0,Não Prioritário
+285,33.0,3,masculino,morto,0,Não Prioritário
+286,30.0,3,masculino,sobrevivente,0,Não Prioritário
+287,22.0,3,masculino,morto,0,Não Prioritário
+288,42.0,2,masculino,sobrevivente,0,Não Prioritário
+289,22.0,3,feminino,sobrevivente,0,Prioritário
+290,26.0,1,feminino,sobrevivente,0,Prioritário
+291,19.0,1,feminino,sobrevivente,1,Prioritário
+292,36.0,2,masculino,morto,0,Não Prioritário
+293,24.0,3,feminino,morto,0,Prioritário
+294,24.0,3,masculino,morto,0,Não Prioritário
+295,0.0,1,masculino,morto,0,Não Prioritário
+296,23.5,3,masculino,morto,0,Não Prioritário
+297,2.0,1,feminino,morto,3,Prioritário
+298,0.0,1,masculino,sobrevivente,0,Não Prioritário
+299,50.0,1,feminino,sobrevivente,1,Prioritário
+300,0.0,3,feminino,sobrevivente,0,Prioritário
+301,0.0,3,masculino,sobrevivente,2,Não Prioritário
+302,19.0,3,masculino,morto,0,Não Prioritário
+303,0.0,2,feminino,sobrevivente,0,Prioritário
+304,0.0,3,masculino,morto,0,Não Prioritário
+305,0.92,1,masculino,sobrevivente,3,Prioritário
+306,0.0,1,feminino,sobrevivente,0,Prioritário
+307,17.0,1,feminino,sobrevivente,1,Prioritário
+308,30.0,2,masculino,morto,1,Não Prioritário
+309,30.0,1,feminino,sobrevivente,0,Prioritário
+310,24.0,1,feminino,sobrevivente,0,Prioritário
+311,18.0,1,feminino,sobrevivente,4,Prioritário
+312,26.0,2,feminino,morto,2,Prioritário
+313,28.0,3,masculino,morto,0,Não Prioritário
+314,43.0,2,masculino,morto,2,Não Prioritário
+315,26.0,3,feminino,sobrevivente,0,Prioritário
+316,24.0,2,feminino,sobrevivente,1,Prioritário
+317,54.0,2,masculino,morto,0,Não Prioritário
+318,31.0,1,feminino,sobrevivente,2,Prioritário
+319,40.0,1,feminino,sobrevivente,2,Prioritário
+320,22.0,3,masculino,morto,0,Não Prioritário
+321,27.0,3,masculino,morto,0,Não Prioritário
+322,30.0,2,feminino,sobrevivente,0,Prioritário
+323,22.0,2,feminino,sobrevivente,2,Prioritário
+324,0.0,3,masculino,morto,10,Não Prioritário
+325,36.0,1,feminino,sobrevivente,0,Prioritário
+326,61.0,3,masculino,morto,0,Não Prioritário
+327,36.0,2,feminino,sobrevivente,0,Prioritário
+328,31.0,3,feminino,sobrevivente,2,Prioritário
+329,16.0,1,feminino,sobrevivente,1,Prioritário
+330,0.0,3,feminino,sobrevivente,2,Prioritário
+331,45.5,1,masculino,morto,0,Não Prioritário
+332,38.0,1,masculino,morto,1,Não Prioritário
+333,16.0,3,masculino,morto,2,Não Prioritário
+334,0.0,1,feminino,sobrevivente,1,Prioritário
+335,0.0,3,masculino,morto,0,Não Prioritário
+336,29.0,1,masculino,morto,1,Não Prioritário
+337,41.0,1,feminino,sobrevivente,0,Prioritário
+338,45.0,3,masculino,sobrevivente,0,Não Prioritário
+339,45.0,1,masculino,morto,0,Não Prioritário
+340,2.0,2,masculino,sobrevivente,2,Prioritário
+341,24.0,1,feminino,sobrevivente,5,Prioritário
+342,28.0,2,masculino,morto,0,Não Prioritário
+343,25.0,2,masculino,morto,0,Não Prioritário
+344,36.0,2,masculino,morto,0,Não Prioritário
+345,24.0,2,feminino,sobrevivente,0,Prioritário
+346,40.0,2,feminino,sobrevivente,0,Prioritário
+347,0.0,3,feminino,sobrevivente,1,Prioritário
+348,3.0,3,masculino,sobrevivente,2,Prioritário
+349,42.0,3,masculino,morto,0,Não Prioritário
+350,23.0,3,masculino,morto,0,Não Prioritário
+351,0.0,1,masculino,morto,0,Não Prioritário
+352,15.0,3,masculino,morto,2,Prioritário
+353,25.0,3,masculino,morto,1,Não Prioritário
+354,0.0,3,masculino,morto,0,Não Prioritário
+355,28.0,3,masculino,morto,0,Não Prioritário
+356,22.0,1,feminino,sobrevivente,1,Prioritário
+357,38.0,2,feminino,morto,0,Prioritário
+358,0.0,3,feminino,sobrevivente,0,Prioritário
+359,0.0,3,feminino,sobrevivente,0,Prioritário
+360,40.0,3,masculino,morto,5,Não Prioritário
+361,29.0,2,masculino,morto,1,Não Prioritário
+362,45.0,3,feminino,morto,1,Prioritário
+363,35.0,3,masculino,morto,0,Não Prioritário
+364,0.0,3,masculino,morto,1,Não Prioritário
+365,30.0,3,masculino,morto,0,Não Prioritário
+366,60.0,1,feminino,sobrevivente,1,Prioritário
+367,0.0,3,feminino,sobrevivente,0,Prioritário
+368,0.0,3,feminino,sobrevivente,0,Prioritário
+369,24.0,1,feminino,sobrevivente,0,Prioritário
+370,25.0,1,masculino,sobrevivente,1,Não Prioritário
+371,18.0,3,masculino,morto,1,Não Prioritário
+372,19.0,3,masculino,morto,0,Não Prioritário
+373,22.0,1,masculino,morto,0,Não Prioritário
+374,3.0,3,feminino,morto,4,Prioritário
+375,0.0,1,feminino,sobrevivente,1,Prioritário
+376,22.0,3,feminino,sobrevivente,0,Prioritário
+377,27.0,1,masculino,morto,2,Não Prioritário
+378,20.0,3,masculino,morto,0,Não Prioritário
+379,19.0,3,masculino,morto,0,Não Prioritário
+380,42.0,1,feminino,sobrevivente,0,Prioritário
+381,1.0,3,feminino,sobrevivente,2,Prioritário
+382,32.0,3,masculino,morto,0,Não Prioritário
+383,35.0,1,feminino,sobrevivente,1,Prioritário
+384,0.0,3,masculino,morto,0,Não Prioritário
+385,18.0,2,masculino,morto,0,Não Prioritário
+386,1.0,3,masculino,morto,7,Prioritário
+387,36.0,2,feminino,sobrevivente,0,Prioritário
+388,0.0,3,masculino,morto,0,Não Prioritário
+389,17.0,2,feminino,sobrevivente,0,Prioritário
+390,36.0,1,masculino,sobrevivente,3,Não Prioritário
+391,21.0,3,masculino,sobrevivente,0,Não Prioritário
+392,28.0,3,masculino,morto,2,Não Prioritário
+393,23.0,1,feminino,sobrevivente,1,Prioritário
+394,24.0,3,feminino,sobrevivente,2,Prioritário
+395,22.0,3,masculino,morto,0,Não Prioritário
+396,31.0,3,feminino,morto,0,Prioritário
+397,46.0,2,masculino,morto,0,Não Prioritário
+398,23.0,2,masculino,morto,0,Não Prioritário
+399,28.0,2,feminino,sobrevivente,0,Prioritário
+400,39.0,3,masculino,sobrevivente,0,Não Prioritário
+401,26.0,3,masculino,morto,0,Não Prioritário
+402,21.0,3,feminino,morto,1,Prioritário
+403,28.0,3,masculino,morto,1,Não Prioritário
+404,20.0,3,feminino,morto,0,Prioritário
+405,34.0,2,masculino,morto,1,Não Prioritário
+406,51.0,3,masculino,morto,0,Não Prioritário
+407,3.0,2,masculino,sobrevivente,2,Prioritário
+408,21.0,3,masculino,morto,0,Não Prioritário
+409,0.0,3,feminino,morto,4,Prioritário
+410,0.0,3,masculino,morto,0,Não Prioritário
+411,0.0,3,masculino,morto,0,Não Prioritário
+412,33.0,1,feminino,sobrevivente,1,Prioritário
+413,0.0,2,masculino,morto,0,Não Prioritário
+414,44.0,3,masculino,sobrevivente,0,Não Prioritário
+415,0.0,3,feminino,morto,0,Prioritário
+416,34.0,2,feminino,sobrevivente,2,Prioritário
+417,18.0,2,feminino,sobrevivente,2,Prioritário
+418,30.0,2,masculino,morto,0,Não Prioritário
+419,10.0,3,feminino,morto,2,Prioritário
+420,0.0,3,masculino,morto,0,Não Prioritário
+421,21.0,3,masculino,morto,0,Não Prioritário
+422,29.0,3,masculino,morto,0,Não Prioritário
+423,28.0,3,feminino,morto,2,Prioritário
+424,18.0,3,masculino,morto,2,Não Prioritário
+425,0.0,3,masculino,morto,0,Não Prioritário
+426,28.0,2,feminino,sobrevivente,1,Prioritário
+427,19.0,2,feminino,sobrevivente,0,Prioritário
+428,0.0,3,masculino,morto,0,Não Prioritário
+429,32.0,3,masculino,sobrevivente,0,Não Prioritário
+430,28.0,1,masculino,sobrevivente,0,Não Prioritário
+431,0.0,3,feminino,sobrevivente,1,Prioritário
+432,42.0,2,feminino,sobrevivente,1,Prioritário
+433,17.0,3,masculino,morto,0,Não Prioritário
+434,50.0,1,masculino,morto,1,Não Prioritário
+435,14.0,1,feminino,sobrevivente,3,Prioritário
+436,21.0,3,feminino,morto,4,Prioritário
+437,24.0,2,feminino,sobrevivente,5,Prioritário
+438,64.0,1,masculino,morto,5,Não Prioritário
+439,31.0,2,masculino,morto,0,Não Prioritário
+440,45.0,2,feminino,sobrevivente,2,Prioritário
+441,20.0,3,masculino,morto,0,Não Prioritário
+442,25.0,3,masculino,morto,1,Não Prioritário
+443,28.0,2,feminino,sobrevivente,0,Prioritário
+444,0.0,3,masculino,sobrevivente,0,Não Prioritário
+445,4.0,1,masculino,sobrevivente,2,Prioritário
+446,13.0,2,feminino,sobrevivente,1,Prioritário
+447,34.0,1,masculino,sobrevivente,0,Não Prioritário
+448,5.0,3,feminino,sobrevivente,3,Prioritário
+449,52.0,1,masculino,sobrevivente,0,Não Prioritário
+450,36.0,2,masculino,morto,3,Não Prioritário
+451,0.0,3,masculino,morto,1,Não Prioritário
+452,30.0,1,masculino,morto,0,Não Prioritário
+453,49.0,1,masculino,sobrevivente,1,Não Prioritário
+454,0.0,3,masculino,morto,0,Não Prioritário
+455,29.0,3,masculino,sobrevivente,0,Não Prioritário
+456,65.0,1,masculino,morto,0,Não Prioritário
+457,0.0,1,feminino,sobrevivente,1,Prioritário
+458,50.0,2,feminino,sobrevivente,0,Prioritário
+459,0.0,3,masculino,morto,0,Não Prioritário
+460,48.0,1,masculino,sobrevivente,0,Não Prioritário
+461,34.0,3,masculino,morto,0,Não Prioritário
+462,47.0,1,masculino,morto,0,Não Prioritário
+463,48.0,2,masculino,morto,0,Não Prioritário
+464,0.0,3,masculino,morto,0,Não Prioritário
+465,38.0,3,masculino,morto,0,Não Prioritário
+466,0.0,2,masculino,morto,0,Não Prioritário
+467,56.0,1,masculino,morto,0,Não Prioritário
+468,0.0,3,masculino,morto,0,Não Prioritário
+469,0.75,3,feminino,sobrevivente,3,Prioritário
+470,0.0,3,masculino,morto,0,Não Prioritário
+471,38.0,3,masculino,morto,0,Não Prioritário
+472,33.0,2,feminino,sobrevivente,3,Prioritário
+473,23.0,2,feminino,sobrevivente,0,Prioritário
+474,22.0,3,feminino,morto,0,Prioritário
+475,0.0,1,masculino,morto,0,Não Prioritário
+476,34.0,2,masculino,morto,1,Não Prioritário
+477,29.0,3,masculino,morto,1,Não Prioritário
+478,22.0,3,masculino,morto,0,Não Prioritário
+479,2.0,3,feminino,sobrevivente,1,Prioritário
+480,9.0,3,masculino,morto,7,Prioritário
+481,0.0,2,masculino,morto,0,Não Prioritário
+482,50.0,3,masculino,morto,0,Não Prioritário
+483,63.0,3,feminino,sobrevivente,0,Prioritário
+484,25.0,1,masculino,sobrevivente,1,Não Prioritário
+485,0.0,3,feminino,morto,4,Prioritário
+486,35.0,1,feminino,sobrevivente,1,Prioritário
+487,58.0,1,masculino,morto,0,Não Prioritário
+488,30.0,3,masculino,morto,0,Não Prioritário
+489,9.0,3,masculino,sobrevivente,2,Prioritário
+490,0.0,3,masculino,morto,1,Não Prioritário
+491,21.0,3,masculino,morto,0,Não Prioritário
+492,55.0,1,masculino,morto,0,Não Prioritário
+493,71.0,1,masculino,morto,0,Não Prioritário
+494,21.0,3,masculino,morto,0,Não Prioritário
+495,0.0,3,masculino,morto,0,Não Prioritário
+496,54.0,1,feminino,sobrevivente,1,Prioritário
+497,0.0,3,masculino,morto,0,Não Prioritário
+498,25.0,1,feminino,morto,3,Prioritário
+499,24.0,3,masculino,morto,0,Não Prioritário
+500,17.0,3,masculino,morto,0,Não Prioritário
+501,21.0,3,feminino,morto,0,Prioritário
+502,0.0,3,feminino,morto,0,Prioritário
+503,37.0,3,feminino,morto,0,Prioritário
+504,16.0,1,feminino,sobrevivente,0,Prioritário
+505,18.0,1,masculino,morto,1,Não Prioritário
+506,33.0,2,feminino,sobrevivente,2,Prioritário
+507,0.0,1,masculino,sobrevivente,0,Não Prioritário
+508,28.0,3,masculino,morto,0,Não Prioritário
+509,26.0,3,masculino,sobrevivente,0,Não Prioritário
+510,29.0,3,masculino,sobrevivente,0,Não Prioritário
+511,0.0,3,masculino,morto,0,Não Prioritário
+512,36.0,1,masculino,sobrevivente,0,Não Prioritário
+513,54.0,1,feminino,sobrevivente,1,Prioritário
+514,24.0,3,masculino,morto,0,Não Prioritário
+515,47.0,1,masculino,morto,0,Não Prioritário
+516,34.0,2,feminino,sobrevivente,0,Prioritário
+517,0.0,3,masculino,morto,0,Não Prioritário
+518,36.0,2,feminino,sobrevivente,1,Prioritário
+519,32.0,3,masculino,morto,0,Não Prioritário
+520,30.0,1,feminino,sobrevivente,0,Prioritário
+521,22.0,3,masculino,morto,0,Não Prioritário
+522,0.0,3,masculino,morto,0,Não Prioritário
+523,44.0,1,feminino,sobrevivente,1,Prioritário
+524,0.0,3,masculino,morto,0,Não Prioritário
+525,40.5,3,masculino,morto,0,Não Prioritário
+526,50.0,2,feminino,sobrevivente,0,Prioritário
+527,0.0,1,masculino,morto,0,Não Prioritário
+528,39.0,3,masculino,morto,0,Não Prioritário
+529,23.0,2,masculino,morto,3,Não Prioritário
+530,2.0,2,feminino,sobrevivente,2,Prioritário
+531,0.0,3,masculino,morto,0,Não Prioritário
+532,17.0,3,masculino,morto,2,Não Prioritário
+533,0.0,3,feminino,sobrevivente,2,Prioritário
+534,30.0,3,feminino,morto,0,Prioritário
+535,7.0,2,feminino,sobrevivente,2,Prioritário
+536,45.0,1,masculino,morto,0,Não Prioritário
+537,30.0,1,feminino,sobrevivente,0,Prioritário
+538,0.0,3,masculino,morto,0,Não Prioritário
+539,22.0,1,feminino,sobrevivente,2,Prioritário
+540,36.0,1,feminino,sobrevivente,2,Prioritário
+541,9.0,3,feminino,morto,6,Prioritário
+542,11.0,3,feminino,morto,6,Prioritário
+543,32.0,2,masculino,sobrevivente,1,Não Prioritário
+544,50.0,1,masculino,morto,1,Não Prioritário
+545,64.0,1,masculino,morto,0,Não Prioritário
+546,19.0,2,feminino,sobrevivente,1,Prioritário
+547,0.0,2,masculino,sobrevivente,0,Não Prioritário
+548,33.0,3,masculino,morto,2,Não Prioritário
+549,8.0,2,masculino,sobrevivente,2,Prioritário
+550,17.0,1,masculino,sobrevivente,2,Não Prioritário
+551,27.0,2,masculino,morto,0,Não Prioritário
+552,0.0,3,masculino,morto,0,Não Prioritário
+553,22.0,3,masculino,sobrevivente,0,Não Prioritário
+554,22.0,3,feminino,sobrevivente,0,Prioritário
+555,62.0,1,masculino,morto,0,Não Prioritário
+556,48.0,1,feminino,sobrevivente,1,Prioritário
+557,0.0,1,masculino,morto,0,Não Prioritário
+558,39.0,1,feminino,sobrevivente,2,Prioritário
+559,36.0,3,feminino,sobrevivente,1,Prioritário
+560,0.0,3,masculino,morto,0,Não Prioritário
+561,40.0,3,masculino,morto,0,Não Prioritário
+562,28.0,2,masculino,morto,0,Não Prioritário
+563,0.0,3,masculino,morto,0,Não Prioritário
+564,0.0,3,feminino,morto,0,Prioritário
+565,24.0,3,masculino,morto,2,Não Prioritário
+566,19.0,3,masculino,morto,0,Não Prioritário
+567,29.0,3,feminino,morto,4,Prioritário
+568,0.0,3,masculino,morto,0,Não Prioritário
+569,32.0,3,masculino,sobrevivente,0,Não Prioritário
+570,62.0,2,masculino,sobrevivente,0,Não Prioritário
+571,53.0,1,feminino,sobrevivente,2,Prioritário
+572,36.0,1,masculino,sobrevivente,0,Não Prioritário
+573,0.0,3,feminino,sobrevivente,0,Prioritário
+574,16.0,3,masculino,morto,0,Não Prioritário
+575,19.0,3,masculino,morto,0,Não Prioritário
+576,34.0,2,feminino,sobrevivente,0,Prioritário
+577,39.0,1,feminino,sobrevivente,1,Prioritário
+578,0.0,3,feminino,morto,1,Prioritário
+579,32.0,3,masculino,sobrevivente,0,Não Prioritário
+580,25.0,2,feminino,sobrevivente,2,Prioritário
+581,39.0,1,feminino,sobrevivente,2,Prioritário
+582,54.0,2,masculino,morto,0,Não Prioritário
+583,36.0,1,masculino,morto,0,Não Prioritário
+584,0.0,3,masculino,morto,0,Não Prioritário
+585,18.0,1,feminino,sobrevivente,2,Prioritário
+586,47.0,2,masculino,morto,0,Não Prioritário
+587,60.0,1,masculino,sobrevivente,2,Não Prioritário
+588,22.0,3,masculino,morto,0,Não Prioritário
+589,0.0,3,masculino,morto,0,Não Prioritário
+590,35.0,3,masculino,morto,0,Não Prioritário
+591,52.0,1,feminino,sobrevivente,1,Prioritário
+592,47.0,3,masculino,morto,0,Não Prioritário
+593,0.0,3,feminino,morto,2,Prioritário
+594,37.0,2,masculino,morto,1,Não Prioritário
+595,36.0,3,masculino,morto,2,Não Prioritário
+596,0.0,2,feminino,sobrevivente,0,Prioritário
+597,49.0,3,masculino,morto,0,Não Prioritário
+598,0.0,3,masculino,morto,0,Não Prioritário
+599,49.0,1,masculino,sobrevivente,1,Não Prioritário
+600,24.0,2,feminino,sobrevivente,3,Prioritário
+601,0.0,3,masculino,morto,0,Não Prioritário
+602,0.0,1,masculino,morto,0,Não Prioritário
+603,44.0,3,masculino,morto,0,Não Prioritário
+604,35.0,1,masculino,sobrevivente,0,Não Prioritário
+605,36.0,3,masculino,morto,1,Não Prioritário
+606,30.0,3,masculino,morto,0,Não Prioritário
+607,27.0,1,masculino,sobrevivente,0,Não Prioritário
+608,22.0,2,feminino,sobrevivente,3,Prioritário
+609,40.0,1,feminino,sobrevivente,0,Prioritário
+610,39.0,3,feminino,morto,6,Prioritário
+611,0.0,3,masculino,morto,0,Não Prioritário
+612,0.0,3,feminino,sobrevivente,1,Prioritário
+613,0.0,3,masculino,morto,0,Não Prioritário
+614,35.0,3,masculino,morto,0,Não Prioritário
+615,24.0,2,feminino,sobrevivente,3,Prioritário
+616,34.0,3,masculino,morto,2,Não Prioritário
+617,26.0,3,feminino,morto,1,Prioritário
+618,4.0,2,feminino,sobrevivente,3,Prioritário
+619,26.0,2,masculino,morto,0,Não Prioritário
+620,27.0,3,masculino,morto,1,Não Prioritário
+621,42.0,1,masculino,sobrevivente,1,Não Prioritário
+622,20.0,3,masculino,sobrevivente,2,Não Prioritário
+623,21.0,3,masculino,morto,0,Não Prioritário
+624,21.0,3,masculino,morto,0,Não Prioritário
+625,61.0,1,masculino,morto,0,Não Prioritário
+626,57.0,2,masculino,morto,0,Não Prioritário
+627,21.0,1,feminino,sobrevivente,0,Prioritário
+628,26.0,3,masculino,morto,0,Não Prioritário
+629,0.0,3,masculino,morto,0,Não Prioritário
+630,80.0,1,masculino,sobrevivente,0,Não Prioritário
+631,51.0,3,masculino,morto,0,Não Prioritário
+632,32.0,1,masculino,sobrevivente,0,Não Prioritário
+633,0.0,1,masculino,morto,0,Não Prioritário
+634,9.0,3,feminino,morto,5,Prioritário
+635,28.0,2,feminino,sobrevivente,0,Prioritário
+636,32.0,3,masculino,morto,0,Não Prioritário
+637,31.0,2,masculino,morto,2,Não Prioritário
+638,41.0,3,feminino,morto,5,Prioritário
+639,0.0,3,masculino,morto,1,Não Prioritário
+640,20.0,3,masculino,morto,0,Não Prioritário
+641,24.0,1,feminino,sobrevivente,0,Prioritário
+642,2.0,3,feminino,morto,5,Prioritário
+643,0.0,3,masculino,sobrevivente,0,Não Prioritário
+644,0.75,3,feminino,sobrevivente,3,Prioritário
+645,48.0,1,masculino,sobrevivente,1,Não Prioritário
+646,19.0,3,masculino,morto,0,Não Prioritário
+647,56.0,1,masculino,sobrevivente,0,Não Prioritário
+648,0.0,3,masculino,morto,0,Não Prioritário
+649,23.0,3,feminino,sobrevivente,0,Prioritário
+650,0.0,3,masculino,morto,0,Não Prioritário
+651,18.0,2,feminino,sobrevivente,1,Prioritário
+652,21.0,3,masculino,morto,0,Não Prioritário
+653,0.0,3,feminino,sobrevivente,0,Prioritário
+654,18.0,3,feminino,morto,0,Prioritário
+655,24.0,2,masculino,morto,2,Não Prioritário
+656,0.0,3,masculino,morto,0,Não Prioritário
+657,32.0,3,feminino,morto,2,Prioritário
+658,23.0,2,masculino,morto,0,Não Prioritário
+659,58.0,1,masculino,morto,2,Não Prioritário
+660,50.0,1,masculino,sobrevivente,2,Não Prioritário
+661,40.0,3,masculino,morto,0,Não Prioritário
+662,47.0,1,masculino,morto,0,Não Prioritário
+663,36.0,3,masculino,morto,0,Não Prioritário
+664,20.0,3,masculino,sobrevivente,1,Não Prioritário
+665,32.0,2,masculino,morto,2,Não Prioritário
+666,25.0,2,masculino,morto,0,Não Prioritário
+667,0.0,3,masculino,morto,0,Não Prioritário
+668,43.0,3,masculino,morto,0,Não Prioritário
+669,0.0,1,feminino,sobrevivente,1,Prioritário
+670,40.0,2,feminino,sobrevivente,2,Prioritário
+671,31.0,1,masculino,morto,1,Não Prioritário
+672,70.0,2,masculino,morto,0,Não Prioritário
+673,31.0,2,masculino,sobrevivente,0,Não Prioritário
+674,0.0,2,masculino,morto,0,Não Prioritário
+675,18.0,3,masculino,morto,0,Não Prioritário
+676,24.5,3,masculino,morto,0,Não Prioritário
+677,18.0,3,feminino,sobrevivente,0,Prioritário
+678,43.0,3,feminino,morto,7,Prioritário
+679,36.0,1,masculino,sobrevivente,1,Não Prioritário
+680,0.0,3,feminino,morto,0,Prioritário
+681,27.0,1,masculino,sobrevivente,0,Não Prioritário
+682,20.0,3,masculino,morto,0,Não Prioritário
+683,14.0,3,masculino,morto,7,Prioritário
+684,60.0,2,masculino,morto,2,Não Prioritário
+685,25.0,2,masculino,morto,3,Não Prioritário
+686,14.0,3,masculino,morto,5,Prioritário
+687,19.0,3,masculino,morto,0,Não Prioritário
+688,18.0,3,masculino,morto,0,Não Prioritário
+689,15.0,1,feminino,sobrevivente,1,Prioritário
+690,31.0,1,masculino,sobrevivente,1,Não Prioritário
+691,4.0,3,feminino,sobrevivente,1,Prioritário
+692,0.0,3,masculino,sobrevivente,0,Não Prioritário
+693,25.0,3,masculino,morto,0,Não Prioritário
+694,60.0,1,masculino,morto,0,Não Prioritário
+695,52.0,2,masculino,morto,0,Não Prioritário
+696,44.0,3,masculino,morto,0,Não Prioritário
+697,0.0,3,feminino,sobrevivente,0,Prioritário
+698,49.0,1,masculino,morto,2,Não Prioritário
+699,42.0,3,masculino,morto,0,Não Prioritário
+700,18.0,1,feminino,sobrevivente,1,Prioritário
+701,35.0,1,masculino,sobrevivente,0,Não Prioritário
+702,18.0,3,feminino,morto,1,Prioritário
+703,25.0,3,masculino,morto,0,Não Prioritário
+704,26.0,3,masculino,morto,1,Não Prioritário
+705,39.0,2,masculino,morto,0,Não Prioritário
+706,45.0,2,feminino,sobrevivente,0,Prioritário
+707,42.0,1,masculino,sobrevivente,0,Não Prioritário
+708,22.0,1,feminino,sobrevivente,0,Prioritário
+709,0.0,3,masculino,sobrevivente,2,Não Prioritário
+710,24.0,1,feminino,sobrevivente,0,Prioritário
+711,0.0,1,masculino,morto,0,Não Prioritário
+712,48.0,1,masculino,sobrevivente,1,Não Prioritário
+713,29.0,3,masculino,morto,0,Não Prioritário
+714,52.0,2,masculino,morto,0,Não Prioritário
+715,19.0,3,masculino,morto,0,Não Prioritário
+716,38.0,1,feminino,sobrevivente,0,Prioritário
+717,27.0,2,feminino,sobrevivente,0,Prioritário
+718,0.0,3,masculino,morto,0,Não Prioritário
+719,33.0,3,masculino,morto,0,Não Prioritário
+720,6.0,2,feminino,sobrevivente,1,Prioritário
+721,17.0,3,masculino,morto,1,Não Prioritário
+722,34.0,2,masculino,morto,0,Não Prioritário
+723,50.0,2,masculino,morto,0,Não Prioritário
+724,27.0,1,masculino,sobrevivente,1,Não Prioritário
+725,20.0,3,masculino,morto,0,Não Prioritário
+726,30.0,2,feminino,sobrevivente,3,Prioritário
+727,0.0,3,feminino,sobrevivente,0,Prioritário
+728,25.0,2,masculino,morto,1,Não Prioritário
+729,25.0,3,feminino,morto,1,Prioritário
+730,29.0,1,feminino,sobrevivente,0,Prioritário
+731,11.0,3,masculino,morto,0,Prioritário
+732,0.0,2,masculino,morto,0,Não Prioritário
+733,23.0,2,masculino,morto,0,Não Prioritário
+734,23.0,2,masculino,morto,0,Não Prioritário
+735,28.5,3,masculino,morto,0,Não Prioritário
+736,48.0,3,feminino,morto,4,Prioritário
+737,35.0,1,masculino,sobrevivente,0,Não Prioritário
+738,0.0,3,masculino,morto,0,Não Prioritário
+739,0.0,3,masculino,morto,0,Não Prioritário
+740,0.0,1,masculino,sobrevivente,0,Não Prioritário
+741,36.0,1,masculino,morto,1,Não Prioritário
+742,21.0,1,feminino,sobrevivente,4,Prioritário
+743,24.0,3,masculino,morto,1,Não Prioritário
+744,31.0,3,masculino,sobrevivente,0,Não Prioritário
+745,70.0,1,masculino,morto,2,Não Prioritário
+746,16.0,3,masculino,morto,2,Não Prioritário
+747,30.0,2,feminino,sobrevivente,0,Prioritário
+748,19.0,1,masculino,morto,1,Não Prioritário
+749,31.0,3,masculino,morto,0,Não Prioritário
+750,4.0,2,feminino,sobrevivente,2,Prioritário
+751,6.0,3,masculino,sobrevivente,1,Prioritário
+752,33.0,3,masculino,morto,0,Não Prioritário
+753,23.0,3,masculino,morto,0,Não Prioritário
+754,48.0,2,feminino,sobrevivente,3,Prioritário
+755,0.67,2,masculino,sobrevivente,2,Prioritário
+756,28.0,3,masculino,morto,0,Não Prioritário
+757,18.0,2,masculino,morto,0,Não Prioritário
+758,34.0,3,masculino,morto,0,Não Prioritário
+759,33.0,1,feminino,sobrevivente,0,Prioritário
+760,0.0,3,masculino,morto,0,Não Prioritário
+761,41.0,3,masculino,morto,0,Não Prioritário
+762,20.0,3,masculino,sobrevivente,0,Não Prioritário
+763,36.0,1,feminino,sobrevivente,3,Prioritário
+764,16.0,3,masculino,morto,0,Não Prioritário
+765,51.0,1,feminino,sobrevivente,1,Prioritário
+766,0.0,1,masculino,morto,0,Não Prioritário
+767,30.5,3,feminino,morto,0,Prioritário
+768,0.0,3,masculino,morto,1,Não Prioritário
+769,32.0,3,masculino,morto,0,Não Prioritário
+770,24.0,3,masculino,morto,0,Não Prioritário
+771,48.0,3,masculino,morto,0,Não Prioritário
+772,57.0,2,feminino,morto,0,Prioritário
+773,0.0,3,masculino,morto,0,Não Prioritário
+774,54.0,2,feminino,sobrevivente,4,Prioritário
+775,18.0,3,masculino,morto,0,Não Prioritário
+776,0.0,3,masculino,morto,0,Não Prioritário
+777,5.0,3,feminino,sobrevivente,0,Prioritário
+778,0.0,3,masculino,morto,0,Não Prioritário
+779,43.0,1,feminino,sobrevivente,1,Prioritário
+780,13.0,3,feminino,sobrevivente,0,Prioritário
+781,17.0,1,feminino,sobrevivente,1,Prioritário
+782,29.0,1,masculino,morto,0,Não Prioritário
+783,0.0,3,masculino,morto,3,Não Prioritário
+784,25.0,3,masculino,morto,0,Não Prioritário
+785,25.0,3,masculino,morto,0,Não Prioritário
+786,18.0,3,feminino,sobrevivente,0,Prioritário
+787,8.0,3,masculino,morto,5,Prioritário
+788,1.0,3,masculino,sobrevivente,3,Prioritário
+789,46.0,1,masculino,morto,0,Não Prioritário
+790,0.0,3,masculino,morto,0,Não Prioritário
+791,16.0,2,masculino,morto,0,Não Prioritário
+792,0.0,3,feminino,morto,10,Prioritário
+793,0.0,1,masculino,morto,0,Não Prioritário
+794,25.0,3,masculino,morto,0,Não Prioritário
+795,39.0,2,masculino,morto,0,Não Prioritário
+796,49.0,1,feminino,sobrevivente,0,Prioritário
+797,31.0,3,feminino,sobrevivente,0,Prioritário
+798,30.0,3,masculino,morto,0,Não Prioritário
+799,30.0,3,feminino,morto,2,Prioritário
+800,34.0,2,masculino,morto,0,Não Prioritário
+801,31.0,2,feminino,sobrevivente,2,Prioritário
+802,11.0,1,masculino,sobrevivente,3,Prioritário
+803,0.42,3,masculino,sobrevivente,1,Prioritário
+804,27.0,3,masculino,sobrevivente,0,Não Prioritário
+805,31.0,3,masculino,morto,0,Não Prioritário
+806,39.0,1,masculino,morto,0,Não Prioritário
+807,18.0,3,feminino,morto,0,Prioritário
+808,39.0,2,masculino,morto,0,Não Prioritário
+809,33.0,1,feminino,sobrevivente,1,Prioritário
+810,26.0,3,masculino,morto,0,Não Prioritário
+811,39.0,3,masculino,morto,0,Não Prioritário
+812,35.0,2,masculino,morto,0,Não Prioritário
+813,6.0,3,feminino,morto,6,Prioritário
+814,30.5,3,masculino,morto,0,Não Prioritário
+815,0.0,1,masculino,morto,0,Não Prioritário
+816,23.0,3,feminino,morto,0,Prioritário
+817,31.0,2,masculino,morto,2,Não Prioritário
+818,43.0,3,masculino,morto,0,Não Prioritário
+819,10.0,3,masculino,morto,5,Prioritário
+820,52.0,1,feminino,sobrevivente,2,Prioritário
+821,27.0,3,masculino,sobrevivente,0,Não Prioritário
+822,38.0,1,masculino,morto,0,Não Prioritário
+823,27.0,3,feminino,sobrevivente,1,Prioritário
+824,2.0,3,masculino,morto,5,Prioritário
+825,0.0,3,masculino,morto,0,Não Prioritário
+826,0.0,3,masculino,morto,0,Não Prioritário
+827,1.0,2,masculino,sobrevivente,2,Prioritário
+828,0.0,3,masculino,sobrevivente,0,Não Prioritário
+829,62.0,1,feminino,sobrevivente,0,Prioritário
+830,15.0,3,feminino,sobrevivente,1,Prioritário
+831,0.83,2,masculino,sobrevivente,2,Prioritário
+832,0.0,3,masculino,morto,0,Não Prioritário
+833,23.0,3,masculino,morto,0,Não Prioritário
+834,18.0,3,masculino,morto,0,Não Prioritário
+835,39.0,1,feminino,sobrevivente,2,Prioritário
+836,21.0,3,masculino,morto,0,Não Prioritário
+837,0.0,3,masculino,morto,0,Não Prioritário
+838,32.0,3,masculino,sobrevivente,0,Não Prioritário
+839,0.0,1,masculino,sobrevivente,0,Não Prioritário
+840,20.0,3,masculino,morto,0,Não Prioritário
+841,16.0,2,masculino,morto,0,Não Prioritário
+842,30.0,1,feminino,sobrevivente,0,Prioritário
+843,34.5,3,masculino,morto,0,Não Prioritário
+844,17.0,3,masculino,morto,0,Não Prioritário
+845,42.0,3,masculino,morto,0,Não Prioritário
+846,0.0,3,masculino,morto,10,Não Prioritário
+847,35.0,3,masculino,morto,0,Não Prioritário
+848,28.0,2,masculino,morto,1,Não Prioritário
+849,0.0,1,feminino,sobrevivente,1,Prioritário
+850,4.0,3,masculino,morto,6,Prioritário
+851,74.0,3,masculino,morto,0,Não Prioritário
+852,9.0,3,feminino,morto,2,Prioritário
+853,16.0,1,feminino,sobrevivente,1,Prioritário
+854,44.0,2,feminino,morto,1,Prioritário
+855,18.0,3,feminino,sobrevivente,1,Prioritário
+856,45.0,1,feminino,sobrevivente,2,Prioritário
+857,51.0,1,masculino,sobrevivente,0,Não Prioritário
+858,24.0,3,feminino,sobrevivente,3,Prioritário
+859,0.0,3,masculino,morto,0,Não Prioritário
+860,41.0,3,masculino,morto,2,Não Prioritário
+861,21.0,2,masculino,morto,1,Não Prioritário
+862,48.0,1,feminino,sobrevivente,0,Prioritário
+863,0.0,3,feminino,morto,10,Prioritário
+864,24.0,2,masculino,morto,0,Não Prioritário
+865,42.0,2,feminino,sobrevivente,0,Prioritário
+866,27.0,2,feminino,sobrevivente,1,Prioritário
+867,31.0,1,masculino,morto,0,Não Prioritário
+868,0.0,3,masculino,morto,0,Não Prioritário
+869,4.0,3,masculino,sobrevivente,2,Prioritário
+870,26.0,3,masculino,morto,0,Não Prioritário
+871,47.0,1,feminino,sobrevivente,2,Prioritário
+872,33.0,1,masculino,morto,0,Não Prioritário
+873,47.0,3,masculino,morto,0,Não Prioritário
+874,28.0,2,feminino,sobrevivente,1,Prioritário
+875,15.0,3,feminino,sobrevivente,0,Prioritário
+876,20.0,3,masculino,morto,0,Não Prioritário
+877,19.0,3,masculino,morto,0,Não Prioritário
+878,0.0,3,masculino,morto,0,Não Prioritário
+879,56.0,1,feminino,sobrevivente,1,Prioritário
+880,25.0,2,feminino,sobrevivente,1,Prioritário
+881,33.0,3,masculino,morto,0,Não Prioritário
+882,22.0,3,feminino,morto,0,Prioritário
+883,28.0,2,masculino,morto,0,Não Prioritário
+884,25.0,3,masculino,morto,0,Não Prioritário
+885,39.0,3,feminino,morto,5,Prioritário
+886,27.0,2,masculino,morto,0,Não Prioritário
+887,19.0,1,feminino,sobrevivente,0,Prioritário
+888,0.0,3,feminino,morto,3,Prioritário
+889,26.0,1,masculino,sobrevivente,0,Não Prioritário
+890,32.0,3,masculino,morto,0,Não Prioritário
+0,34.5,3,masculino,morto,0,Não Prioritário
+1,47.0,3,feminino,sobrevivente,1,Prioritário
+2,62.0,2,masculino,morto,0,Não Prioritário
+3,27.0,3,masculino,morto,0,Não Prioritário
+4,22.0,3,feminino,sobrevivente,2,Prioritário
+5,14.0,3,masculino,morto,0,Prioritário
+6,30.0,3,feminino,sobrevivente,0,Prioritário
+7,26.0,2,masculino,morto,2,Não Prioritário
+8,18.0,3,feminino,sobrevivente,0,Prioritário
+9,21.0,3,masculino,morto,2,Não Prioritário
+10,0.0,3,masculino,morto,0,Não Prioritário
+11,46.0,1,masculino,morto,0,Não Prioritário
+12,23.0,1,feminino,sobrevivente,1,Prioritário
+13,63.0,2,masculino,morto,1,Não Prioritário
+14,47.0,1,feminino,sobrevivente,1,Prioritário
+15,24.0,2,feminino,sobrevivente,1,Prioritário
+16,35.0,2,masculino,morto,0,Não Prioritário
+17,21.0,3,masculino,morto,0,Não Prioritário
+18,27.0,3,feminino,sobrevivente,1,Prioritário
+19,45.0,3,feminino,sobrevivente,0,Prioritário
+20,55.0,1,masculino,morto,1,Não Prioritário
+21,9.0,3,masculino,morto,1,Prioritário
+22,0.0,1,feminino,sobrevivente,0,Prioritário
+23,21.0,1,masculino,morto,1,Não Prioritário
+24,48.0,1,feminino,sobrevivente,4,Prioritário
+25,50.0,3,masculino,morto,1,Não Prioritário
+26,22.0,1,feminino,sobrevivente,1,Prioritário
+27,22.5,3,masculino,morto,0,Não Prioritário
+28,41.0,1,masculino,morto,0,Não Prioritário
+29,0.0,3,masculino,morto,2,Não Prioritário
+30,50.0,2,masculino,morto,1,Não Prioritário
+31,24.0,2,masculino,morto,2,Não Prioritário
+32,33.0,3,feminino,sobrevivente,3,Prioritário
+33,0.0,3,feminino,sobrevivente,3,Prioritário
+34,30.0,1,masculino,morto,1,Não Prioritário
+35,18.5,3,masculino,morto,0,Não Prioritário
+36,0.0,3,feminino,sobrevivente,0,Prioritário
+37,21.0,3,feminino,sobrevivente,0,Prioritário
+38,25.0,3,masculino,morto,0,Não Prioritário
+39,0.0,3,masculino,morto,0,Não Prioritário
+40,39.0,3,masculino,morto,1,Não Prioritário
+41,0.0,1,masculino,morto,0,Não Prioritário
+42,41.0,3,masculino,morto,0,Não Prioritário
+43,30.0,2,feminino,sobrevivente,0,Prioritário
+44,45.0,1,feminino,sobrevivente,1,Prioritário
+45,25.0,3,masculino,morto,0,Não Prioritário
+46,45.0,1,masculino,morto,0,Não Prioritário
+47,0.0,3,masculino,morto,0,Não Prioritário
+48,60.0,1,feminino,sobrevivente,0,Prioritário
+49,36.0,3,feminino,sobrevivente,2,Prioritário
+50,24.0,1,masculino,morto,1,Não Prioritário
+51,27.0,2,masculino,morto,0,Não Prioritário
+52,20.0,2,feminino,sobrevivente,3,Prioritário
+53,28.0,1,feminino,sobrevivente,5,Prioritário
+54,0.0,2,masculino,morto,0,Não Prioritário
+55,10.0,3,masculino,morto,5,Prioritário
+56,35.0,3,masculino,morto,0,Não Prioritário
+57,25.0,3,masculino,morto,0,Não Prioritário
+58,0.0,3,masculino,morto,1,Não Prioritário
+59,36.0,1,feminino,sobrevivente,0,Prioritário
+60,17.0,3,masculino,morto,0,Não Prioritário
+61,32.0,2,masculino,morto,0,Não Prioritário
+62,18.0,3,masculino,morto,0,Não Prioritário
+63,22.0,3,feminino,sobrevivente,0,Prioritário
+64,13.0,1,masculino,morto,4,Prioritário
+65,0.0,2,feminino,sobrevivente,0,Prioritário
+66,18.0,3,feminino,sobrevivente,0,Prioritário
+67,47.0,1,masculino,morto,0,Não Prioritário
+68,31.0,1,masculino,morto,0,Não Prioritário
+69,60.0,1,feminino,sobrevivente,5,Prioritário
+70,24.0,3,feminino,sobrevivente,0,Prioritário
+71,21.0,3,masculino,morto,0,Não Prioritário
+72,29.0,3,feminino,sobrevivente,0,Prioritário
+73,28.5,1,masculino,morto,0,Não Prioritário
+74,35.0,1,feminino,sobrevivente,0,Prioritário
+75,32.5,1,masculino,morto,0,Não Prioritário
+76,0.0,3,masculino,morto,0,Não Prioritário
+77,55.0,1,feminino,sobrevivente,2,Prioritário
+78,30.0,2,masculino,morto,0,Não Prioritário
+79,24.0,3,feminino,sobrevivente,0,Prioritário
+80,6.0,3,masculino,morto,2,Prioritário
+81,67.0,1,masculino,morto,1,Não Prioritário
+82,49.0,1,masculino,morto,0,Não Prioritário
+83,0.0,3,masculino,morto,0,Não Prioritário
+84,0.0,2,masculino,morto,0,Não Prioritário
+85,0.0,3,masculino,morto,1,Não Prioritário
+86,27.0,3,feminino,sobrevivente,0,Prioritário
+87,18.0,3,feminino,sobrevivente,0,Prioritário
+88,0.0,3,feminino,sobrevivente,0,Prioritário
+89,2.0,2,masculino,morto,2,Prioritário
+90,22.0,3,feminino,sobrevivente,1,Prioritário
+91,0.0,3,masculino,morto,0,Não Prioritário
+92,27.0,1,feminino,sobrevivente,3,Prioritário
+93,0.0,3,masculino,morto,0,Não Prioritário
+94,25.0,1,masculino,morto,0,Não Prioritário
+95,25.0,3,masculino,morto,0,Não Prioritário
+96,76.0,1,feminino,sobrevivente,1,Prioritário
+97,29.0,3,masculino,morto,0,Não Prioritário
+98,20.0,3,feminino,sobrevivente,0,Prioritário
+99,33.0,3,masculino,morto,0,Não Prioritário
+100,43.0,1,feminino,sobrevivente,1,Prioritário
+101,27.0,2,masculino,morto,1,Não Prioritário
+102,0.0,3,masculino,morto,0,Não Prioritário
+103,26.0,3,masculino,morto,0,Não Prioritário
+104,16.0,3,feminino,sobrevivente,2,Prioritário
+105,28.0,3,masculino,morto,0,Não Prioritário
+106,21.0,3,masculino,morto,0,Não Prioritário
+107,0.0,3,masculino,morto,0,Não Prioritário
+108,0.0,3,masculino,morto,0,Não Prioritário
+109,18.5,2,masculino,morto,0,Não Prioritário
+110,41.0,2,masculino,morto,0,Não Prioritário
+111,0.0,3,feminino,sobrevivente,0,Prioritário
+112,36.0,1,feminino,sobrevivente,0,Prioritário
+113,18.5,3,feminino,sobrevivente,0,Prioritário
+114,63.0,1,feminino,sobrevivente,1,Prioritário
+115,18.0,3,masculino,morto,1,Não Prioritário
+116,0.0,3,masculino,morto,0,Não Prioritário
+117,1.0,3,feminino,sobrevivente,2,Prioritário
+118,36.0,1,masculino,morto,0,Não Prioritário
+119,29.0,2,feminino,sobrevivente,1,Prioritário
+120,12.0,2,feminino,sobrevivente,0,Prioritário
+121,0.0,3,masculino,morto,1,Não Prioritário
+122,35.0,1,feminino,sobrevivente,1,Prioritário
+123,28.0,3,masculino,morto,0,Não Prioritário
+124,0.0,3,masculino,morto,0,Não Prioritário
+125,17.0,3,feminino,sobrevivente,1,Prioritário
+126,22.0,3,masculino,morto,0,Não Prioritário
+127,0.0,3,feminino,sobrevivente,2,Prioritário
+128,42.0,2,masculino,morto,0,Não Prioritário
+129,24.0,3,masculino,morto,0,Não Prioritário
+130,32.0,3,masculino,morto,0,Não Prioritário
+131,53.0,1,masculino,morto,0,Não Prioritário
+132,0.0,3,feminino,sobrevivente,4,Prioritário
+133,0.0,3,masculino,morto,1,Não Prioritário
+134,43.0,3,masculino,morto,0,Não Prioritário
+135,24.0,3,masculino,morto,0,Não Prioritário
+136,26.5,3,masculino,morto,0,Não Prioritário
+137,26.0,2,masculino,morto,0,Não Prioritário
+138,23.0,3,feminino,sobrevivente,0,Prioritário
+139,40.0,3,masculino,morto,7,Não Prioritário
+140,10.0,3,feminino,sobrevivente,7,Prioritário
+141,33.0,1,feminino,sobrevivente,0,Prioritário
+142,61.0,1,masculino,morto,4,Não Prioritário
+143,28.0,2,masculino,morto,0,Não Prioritário
+144,42.0,1,masculino,morto,0,Não Prioritário
+145,31.0,3,masculino,morto,3,Não Prioritário
+146,0.0,1,masculino,morto,0,Não Prioritário
+147,22.0,3,masculino,morto,0,Não Prioritário
+148,0.0,1,masculino,morto,0,Não Prioritário
+149,30.0,2,masculino,morto,2,Não Prioritário
+150,23.0,1,feminino,sobrevivente,1,Prioritário
+151,0.0,3,masculino,morto,0,Não Prioritário
+152,60.5,3,masculino,morto,0,Não Prioritário
+153,36.0,3,feminino,sobrevivente,2,Prioritário
+154,13.0,3,masculino,morto,6,Prioritário
+155,24.0,3,masculino,morto,0,Não Prioritário
+156,29.0,1,feminino,sobrevivente,0,Prioritário
+157,23.0,3,feminino,sobrevivente,0,Prioritário
+158,42.0,1,masculino,morto,0,Não Prioritário
+159,26.0,3,feminino,sobrevivente,2,Prioritário
+160,0.0,3,feminino,sobrevivente,0,Prioritário
+161,7.0,3,masculino,morto,2,Prioritário
+162,26.0,2,feminino,sobrevivente,0,Prioritário
+163,0.0,3,masculino,morto,0,Não Prioritário
+164,41.0,2,masculino,morto,0,Não Prioritário
+165,26.0,3,feminino,sobrevivente,2,Prioritário
+166,48.0,1,masculino,morto,0,Não Prioritário
+167,18.0,3,masculino,morto,4,Não Prioritário
+168,0.0,1,feminino,sobrevivente,0,Prioritário
+169,22.0,3,feminino,sobrevivente,0,Prioritário
+170,0.0,3,masculino,morto,0,Não Prioritário
+171,27.0,3,masculino,morto,0,Não Prioritário
+172,23.0,3,masculino,morto,1,Não Prioritário
+173,0.0,3,masculino,morto,0,Não Prioritário
+174,40.0,3,masculino,morto,6,Não Prioritário
+175,15.0,2,feminino,sobrevivente,2,Prioritário
+176,20.0,2,feminino,sobrevivente,0,Prioritário
+177,54.0,1,masculino,morto,1,Não Prioritário
+178,36.0,2,feminino,sobrevivente,3,Prioritário
+179,64.0,1,feminino,sobrevivente,2,Prioritário
+180,30.0,2,masculino,morto,0,Não Prioritário
+181,37.0,1,masculino,morto,2,Não Prioritário
+182,18.0,1,feminino,sobrevivente,1,Prioritário
+183,0.0,3,masculino,morto,0,Não Prioritário
+184,27.0,1,feminino,sobrevivente,2,Prioritário
+185,40.0,2,masculino,morto,0,Não Prioritário
+186,21.0,2,feminino,sobrevivente,1,Prioritário
+187,17.0,3,masculino,morto,2,Não Prioritário
+188,0.0,3,feminino,sobrevivente,10,Prioritário
+189,40.0,2,masculino,morto,0,Não Prioritário
+190,34.0,2,masculino,morto,1,Não Prioritário
+191,0.0,1,masculino,morto,0,Não Prioritário
+192,11.5,3,masculino,morto,2,Prioritário
+193,61.0,2,masculino,morto,0,Não Prioritário
+194,8.0,2,masculino,morto,2,Prioritário
+195,33.0,3,masculino,morto,0,Não Prioritário
+196,6.0,1,masculino,morto,2,Prioritário
+197,18.0,3,feminino,sobrevivente,0,Prioritário
+198,23.0,2,masculino,morto,0,Não Prioritário
+199,0.0,3,feminino,sobrevivente,0,Prioritário
+200,0.0,3,feminino,sobrevivente,0,Prioritário
+201,0.33,3,masculino,morto,2,Prioritário
+202,47.0,1,masculino,morto,1,Não Prioritário
+203,8.0,2,feminino,sobrevivente,2,Prioritário
+204,25.0,2,masculino,morto,0,Não Prioritário
+205,0.0,1,masculino,morto,0,Não Prioritário
+206,35.0,3,feminino,sobrevivente,0,Prioritário
+207,24.0,2,masculino,morto,0,Não Prioritário
+208,33.0,1,feminino,sobrevivente,0,Prioritário
+209,25.0,3,masculino,morto,0,Não Prioritário
+210,32.0,3,masculino,morto,0,Não Prioritário
+211,0.0,3,masculino,morto,0,Não Prioritário
+212,17.0,2,masculino,morto,0,Não Prioritário
+213,60.0,2,feminino,sobrevivente,1,Prioritário
+214,38.0,3,feminino,sobrevivente,6,Prioritário
+215,42.0,1,masculino,morto,0,Não Prioritário
+216,0.0,3,feminino,sobrevivente,0,Prioritário
+217,57.0,1,masculino,morto,2,Não Prioritário
+218,50.0,1,feminino,sobrevivente,2,Prioritário
+219,0.0,3,masculino,morto,0,Não Prioritário
+220,30.0,2,feminino,sobrevivente,1,Prioritário
+221,21.0,3,masculino,morto,0,Não Prioritário
+222,22.0,2,feminino,sobrevivente,0,Prioritário
+223,21.0,3,masculino,morto,0,Não Prioritário
+224,53.0,1,feminino,sobrevivente,0,Prioritário
+225,0.0,3,feminino,sobrevivente,2,Prioritário
+226,23.0,3,masculino,morto,0,Não Prioritário
+227,0.0,3,feminino,sobrevivente,0,Prioritário
+228,40.5,3,masculino,morto,0,Não Prioritário
+229,36.0,2,masculino,morto,0,Não Prioritário
+230,14.0,2,masculino,morto,0,Prioritário
+231,21.0,1,feminino,sobrevivente,0,Prioritário
+232,21.0,3,masculino,morto,1,Não Prioritário
+233,0.0,3,masculino,morto,0,Não Prioritário
+234,39.0,1,masculino,morto,1,Não Prioritário
+235,20.0,3,masculino,morto,0,Não Prioritário
+236,64.0,1,masculino,morto,1,Não Prioritário
+237,20.0,3,masculino,morto,0,Não Prioritário
+238,18.0,2,feminino,sobrevivente,2,Prioritário
+239,48.0,1,feminino,sobrevivente,1,Prioritário
+240,55.0,1,feminino,sobrevivente,0,Prioritário
+241,45.0,2,feminino,sobrevivente,2,Prioritário
+242,45.0,1,masculino,morto,2,Não Prioritário
+243,0.0,3,masculino,morto,0,Não Prioritário
+244,0.0,3,masculino,morto,3,Não Prioritário
+245,41.0,1,masculino,morto,1,Não Prioritário
+246,22.0,2,feminino,sobrevivente,0,Prioritário
+247,42.0,2,masculino,morto,2,Não Prioritário
+248,29.0,2,feminino,sobrevivente,1,Prioritário
+249,0.0,3,feminino,sobrevivente,1,Prioritário
+250,0.92,2,feminino,sobrevivente,3,Prioritário
+251,20.0,3,masculino,morto,0,Não Prioritário
+252,27.0,1,masculino,morto,1,Não Prioritário
+253,24.0,3,masculino,morto,0,Não Prioritário
+254,32.5,3,masculino,morto,0,Não Prioritário
+255,0.0,3,masculino,morto,0,Não Prioritário
+256,0.0,3,masculino,morto,0,Não Prioritário
+257,28.0,3,masculino,morto,0,Não Prioritário
+258,19.0,2,feminino,sobrevivente,0,Prioritário
+259,21.0,3,masculino,morto,0,Não Prioritário
+260,36.5,3,masculino,morto,1,Não Prioritário
+261,21.0,3,masculino,morto,0,Não Prioritário
+262,29.0,2,feminino,sobrevivente,2,Prioritário
+263,1.0,3,feminino,sobrevivente,2,Prioritário
+264,30.0,2,masculino,morto,0,Não Prioritário
+265,0.0,3,masculino,morto,0,Não Prioritário
+266,0.0,1,masculino,morto,0,Não Prioritário
+267,0.0,3,masculino,morto,0,Não Prioritário
+268,0.0,3,feminino,sobrevivente,0,Prioritário
+269,17.0,3,masculino,morto,0,Não Prioritário
+270,46.0,1,masculino,morto,0,Não Prioritário
+271,0.0,3,masculino,morto,0,Não Prioritário
+272,26.0,1,feminino,sobrevivente,1,Prioritário
+273,0.0,3,feminino,sobrevivente,1,Prioritário
+274,0.0,3,masculino,morto,0,Não Prioritário
+275,20.0,2,feminino,sobrevivente,1,Prioritário
+276,28.0,2,masculino,morto,0,Não Prioritário
+277,40.0,2,masculino,morto,1,Não Prioritário
+278,30.0,2,masculino,morto,1,Não Prioritário
+279,22.0,2,masculino,morto,0,Não Prioritário
+280,23.0,3,feminino,sobrevivente,0,Prioritário
+281,0.75,3,masculino,morto,2,Prioritário
+282,0.0,3,feminino,sobrevivente,0,Prioritário
+283,9.0,3,feminino,sobrevivente,2,Prioritário
+284,2.0,3,feminino,sobrevivente,2,Prioritário
+285,36.0,3,masculino,morto,0,Não Prioritário
+286,0.0,3,masculino,morto,0,Não Prioritário
+287,24.0,1,masculino,morto,1,Não Prioritário
+288,0.0,3,masculino,morto,0,Não Prioritário
+289,0.0,3,masculino,morto,0,Não Prioritário
+290,0.0,1,masculino,morto,0,Não Prioritário
+291,30.0,3,feminino,sobrevivente,0,Prioritário
+292,0.0,3,masculino,morto,0,Não Prioritário
+293,53.0,1,masculino,morto,2,Não Prioritário
+294,36.0,3,masculino,morto,0,Não Prioritário
+295,26.0,3,masculino,morto,0,Não Prioritário
+296,1.0,2,feminino,sobrevivente,3,Prioritário
+297,0.0,3,masculino,morto,2,Não Prioritário
+298,30.0,1,masculino,morto,0,Não Prioritário
+299,29.0,3,masculino,morto,0,Não Prioritário
+300,32.0,3,masculino,morto,0,Não Prioritário
+301,0.0,2,masculino,morto,0,Não Prioritário
+302,43.0,2,masculino,morto,1,Não Prioritário
+303,24.0,3,masculino,morto,0,Não Prioritário
+304,0.0,3,feminino,sobrevivente,0,Prioritário
+305,64.0,1,feminino,sobrevivente,2,Prioritário
+306,30.0,1,masculino,morto,3,Não Prioritário
+307,0.83,3,masculino,morto,1,Prioritário
+308,55.0,1,masculino,morto,2,Não Prioritário
+309,45.0,3,feminino,sobrevivente,1,Prioritário
+310,18.0,3,masculino,morto,0,Não Prioritário
+311,22.0,3,masculino,morto,0,Não Prioritário
+312,0.0,3,masculino,morto,0,Não Prioritário
+313,37.0,3,feminino,sobrevivente,0,Prioritário
+314,55.0,1,feminino,sobrevivente,0,Prioritário
+315,17.0,3,feminino,sobrevivente,0,Prioritário
+316,57.0,1,masculino,morto,1,Não Prioritário
+317,19.0,2,masculino,morto,0,Não Prioritário
+318,27.0,3,masculino,morto,0,Não Prioritário
+319,22.0,2,masculino,morto,2,Não Prioritário
+320,26.0,3,masculino,morto,0,Não Prioritário
+321,25.0,3,masculino,morto,0,Não Prioritário
+322,26.0,2,masculino,morto,0,Não Prioritário
+323,33.0,1,masculino,morto,0,Não Prioritário
+324,39.0,1,feminino,sobrevivente,0,Prioritário
+325,23.0,3,masculino,morto,0,Não Prioritário
+326,12.0,2,feminino,sobrevivente,3,Prioritário
+327,46.0,1,masculino,morto,0,Não Prioritário
+328,29.0,2,masculino,morto,1,Não Prioritário
+329,21.0,2,masculino,morto,0,Não Prioritário
+330,48.0,2,feminino,sobrevivente,2,Prioritário
+331,39.0,1,masculino,morto,0,Não Prioritário
+332,0.0,3,masculino,morto,0,Não Prioritário
+333,19.0,3,feminino,sobrevivente,2,Prioritário
+334,27.0,3,masculino,morto,0,Não Prioritário
+335,30.0,1,masculino,morto,0,Não Prioritário
+336,32.0,2,masculino,morto,0,Não Prioritário
+337,39.0,3,masculino,morto,2,Não Prioritário
+338,25.0,2,masculino,morto,0,Não Prioritário
+339,0.0,3,masculino,morto,0,Não Prioritário
+340,18.0,2,masculino,morto,0,Não Prioritário
+341,32.0,3,masculino,morto,0,Não Prioritário
+342,0.0,3,masculino,morto,10,Não Prioritário
+343,58.0,1,feminino,sobrevivente,1,Prioritário
+344,0.0,3,masculino,morto,2,Não Prioritário
+345,16.0,3,feminino,sobrevivente,0,Prioritário
+346,26.0,2,masculino,morto,0,Não Prioritário
+347,38.0,3,feminino,sobrevivente,0,Prioritário
+348,24.0,2,masculino,morto,0,Não Prioritário
+349,31.0,2,feminino,sobrevivente,0,Prioritário
+350,45.0,1,feminino,sobrevivente,1,Prioritário
+351,25.0,2,masculino,morto,0,Não Prioritário
+352,18.0,2,masculino,morto,0,Não Prioritário
+353,49.0,2,masculino,morto,3,Não Prioritário
+354,0.17,3,feminino,sobrevivente,3,Prioritário
+355,50.0,1,masculino,morto,0,Não Prioritário
+356,59.0,1,feminino,sobrevivente,2,Prioritário
+357,0.0,3,masculino,morto,0,Não Prioritário
+358,0.0,3,masculino,morto,0,Não Prioritário
+359,30.0,3,feminino,sobrevivente,1,Prioritário
+360,14.5,3,masculino,morto,10,Prioritário
+361,24.0,2,feminino,sobrevivente,2,Prioritário
+362,31.0,2,feminino,sobrevivente,0,Prioritário
+363,27.0,3,masculino,morto,0,Não Prioritário
+364,25.0,1,feminino,sobrevivente,1,Prioritário
+365,0.0,3,feminino,sobrevivente,10,Prioritário
+366,0.0,3,masculino,morto,1,Não Prioritário
+367,22.0,3,feminino,sobrevivente,0,Prioritário
+368,45.0,1,feminino,sobrevivente,1,Prioritário
+369,29.0,2,masculino,morto,0,Não Prioritário
+370,21.0,2,masculino,morto,1,Não Prioritário
+371,31.0,1,feminino,sobrevivente,0,Prioritário
+372,49.0,1,masculino,morto,0,Não Prioritário
+373,44.0,2,masculino,morto,0,Não Prioritário
+374,54.0,1,feminino,sobrevivente,2,Prioritário
+375,45.0,1,feminino,sobrevivente,0,Prioritário
+376,22.0,3,feminino,sobrevivente,2,Prioritário
+377,21.0,2,masculino,morto,0,Não Prioritário
+378,55.0,1,masculino,morto,0,Não Prioritário
+379,5.0,3,masculino,morto,6,Prioritário
+380,0.0,3,masculino,morto,0,Não Prioritário
+381,26.0,3,masculino,morto,0,Não Prioritário
+382,0.0,3,feminino,sobrevivente,0,Prioritário
+383,19.0,3,feminino,sobrevivente,1,Prioritário
+384,0.0,2,masculino,morto,0,Não Prioritário
+385,24.0,2,feminino,sobrevivente,3,Prioritário
+386,24.0,3,masculino,morto,0,Não Prioritário
+387,57.0,2,masculino,morto,0,Não Prioritário
+388,21.0,3,masculino,morto,0,Não Prioritário
+389,6.0,3,masculino,morto,4,Prioritário
+390,23.0,1,masculino,morto,0,Não Prioritário
+391,51.0,1,feminino,sobrevivente,1,Prioritário
+392,13.0,3,masculino,morto,2,Prioritário
+393,47.0,2,masculino,morto,0,Não Prioritário
+394,29.0,3,masculino,morto,4,Não Prioritário
+395,18.0,1,feminino,sobrevivente,1,Prioritário
+396,24.0,3,masculino,morto,0,Não Prioritário
+397,48.0,1,feminino,sobrevivente,2,Prioritário
+398,22.0,3,masculino,morto,0,Não Prioritário
+399,31.0,3,masculino,morto,0,Não Prioritário
+400,30.0,1,feminino,sobrevivente,0,Prioritário
+401,38.0,2,masculino,morto,1,Não Prioritário
+402,22.0,1,feminino,sobrevivente,1,Prioritário
+403,17.0,1,masculino,morto,0,Não Prioritário
+404,43.0,1,masculino,morto,1,Não Prioritário
+405,20.0,2,masculino,morto,0,Não Prioritário
+406,23.0,2,masculino,morto,1,Não Prioritário
+407,50.0,1,masculino,morto,2,Não Prioritário
+408,0.0,3,feminino,sobrevivente,0,Prioritário
+409,3.0,3,feminino,sobrevivente,2,Prioritário
+410,0.0,3,feminino,sobrevivente,0,Prioritário
+411,37.0,1,feminino,sobrevivente,1,Prioritário
+412,28.0,3,feminino,sobrevivente,0,Prioritário
+413,0.0,3,masculino,morto,0,Não Prioritário
+414,39.0,1,feminino,sobrevivente,0,Prioritário
+415,38.5,3,masculino,morto,0,Não Prioritário
+416,0.0,3,masculino,morto,0,Não Prioritário
+417,0.0,3,masculino,morto,2,Não Prioritário
